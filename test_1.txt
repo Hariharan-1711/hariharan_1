@@ -1,4 +1,0 @@
-Create test_1.txt
-
-Hello world
-
